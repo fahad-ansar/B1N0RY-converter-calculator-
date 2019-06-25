@@ -1,8 +1,8 @@
-import javax.print.DocFlavor;
 
-public class BinarytoChar {
+//Done 100%
 
-    //works for a character doesnt work for whole string do it
+public class ASCIIBinarytoChar {
+
 
     public String convert(String s){
         String result = "";
@@ -12,13 +12,12 @@ public class BinarytoChar {
         while(true){
             if(i == sC.length-1){
                 temp = temp + sC[i] + "";
-                System.out.println(temp);
                 result = result + toChar(temp);
                 temp = "";
                 break;
             }
             if(sC[i]==' ') {
-                result = result + toChar(temp);
+                if(!temp.equals(""))result = result + toChar(temp);
                 temp = "";
 
             }else{

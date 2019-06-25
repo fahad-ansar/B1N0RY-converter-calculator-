@@ -1,4 +1,7 @@
-public class ChartoBinary {
+
+//Done 100%
+
+public class ASCIIChartoBinary {
 
     String result = "";
     String temp ="";
