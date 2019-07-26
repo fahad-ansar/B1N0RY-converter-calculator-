@@ -5,7 +5,7 @@ public class BinarySubt {
 
     //'a' is greater number and 'b' is number taken out of 'a'
 
-    public String sbtractIt(String a, String b){
+    public String sbtractIt(String b, String a){
         String result = "";
        int f = bd.convert(b);
        int d = bd.convert(a);

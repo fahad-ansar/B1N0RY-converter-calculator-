@@ -11,7 +11,6 @@ public class DecitoBinary {
         StringBuilder sb = new StringBuilder(hereTemp);
         sb.reverse();
         return sb.toString();
-
     }
 
 

@@ -2,22 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa21b82f-e2f6-4336-a546-838910b6e838" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarytoDeci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/B1n0ry/ASCIIBinarytoChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/B1n0ry/ASCIIBinarytoChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/B1n0ry/ASCIIChartoBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/B1n0ry/ASCIIChartoBinary.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/B1n0ry/BinaryAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/B1n0ry/BinaryAdd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/B1n0ry/BinarytoChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/B1n0ry/ChartoBinary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/B1n0ry/BinaryDiv.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/B1n0ry/BinaryDiv.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/B1n0ry/BinaryFun.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/B1n0ry/BinaryFun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/B1n0ry/BinaryMul.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/B1n0ry/BinaryMul.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/B1n0ry/BinarySubt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/B1n0ry/BinarySubt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/B1n0ry/BinarytoDeci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/B1n0ry/BinarytoDeci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/B1n0ry/DecitoBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/B1n0ry/DecitoBinary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/B1n0ry/META-INF/B1n0ry.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/B1n0ry/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/B1n0ry/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryAdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryDiv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryDiv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryFun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryFun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryMul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryMul.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BinarySubt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySubt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarytoChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ASCIIBinarytoChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ChartoBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ASCIIChartoBinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecitoBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecitoBinary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,62 +30,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ASCIIBinarytoChar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BinaryAdd.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-              <folding>
-                <element signature="method#addIt#0;class#BinaryAdd#0" />
-                <element signature="method#addition#0;class#BinaryAdd#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="e#1183#1184#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BinarytoDeci.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DecitoBinary.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -98,58 +46,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/BinarytoChar.java" />
-        <option value="$PROJECT_DIR$/src/ChartoBinary.java" />
-        <option value="$PROJECT_DIR$/src/DeitoBinary.java" />
-        <option value="$PROJECT_DIR$/src/ASCIIBinarytoChar.java" />
-        <option value="$PROJECT_DIR$/src/ASCIIChartoBinary.java" />
-        <option value="$PROJECT_DIR$/src/BinarytoDeci.java" />
-        <option value="$PROJECT_DIR$/src/BinaryAdd.java" />
-        <option value="$PROJECT_DIR$/src/DecitoBinary.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/BinarySubt.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="y" value="24" />
-    <option name="width" value="1412" />
-    <option name="height" value="1056" />
-  </component>
+  <component name="ProjectId" id="1OXLUrIg5gFkEw8IZ5xzv1Yg4MI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="B1N0RY-converter-calculator-" type="b2602c69:ProjectViewProjectNode" />
-              <item name="B1N0RY-converter-calculator-" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="B1N0RY-converter-calculator-" type="b2602c69:ProjectViewProjectNode" />
-              <item name="B1N0RY-converter-calculator-" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Matrix-Operation-Solver" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -202,190 +107,51 @@
       <workItem from="1560903995940" duration="1198000" />
       <workItem from="1561366971540" duration="3050000" />
       <workItem from="1561455580955" duration="3280000" />
+      <workItem from="1563774276571" duration="1476000" />
+      <workItem from="1563830753700" duration="402000" />
+      <workItem from="1563924222548" duration="443000" />
+      <workItem from="1564119023293" duration="2072000" />
+      <workItem from="1564161243206" duration="19000" />
+      <workItem from="1564161551505" duration="629000" />
+      <workItem from="1564163252343" duration="470000" />
+      <workItem from="1564163987905" duration="308000" />
+      <workItem from="1564164381432" duration="33000" />
+      <workItem from="1564164428942" duration="4826000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29031000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1412" height="1056" extended-state="4" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12518302" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36933047" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32937366" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3298217" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12540022" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27321815" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32937366" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3298217" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BinarySubt.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BinarySubt.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BinarySubt.java</url>
-          <line>28</line>
-          <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/B1N0RY_converter_calculator_$Main.ic" NAME="Main Coverage Results" MODIFIED="1561371061660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BinaryMul.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinaryFun.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" selection-start-line="1" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinaryDiv.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ASCIIChartoBinary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B1n0ry.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarytoDeci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinaryAdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="method#addIt#0;class#BinaryAdd#0" />
-            <element signature="method#addition#0;class#BinaryAdd#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DecitoBinary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#1183#1184#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySubt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ASCIIBinarytoChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
